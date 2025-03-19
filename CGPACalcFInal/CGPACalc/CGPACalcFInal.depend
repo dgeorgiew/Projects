@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1741109717 source:/home/deni/C++ projects/CGPACalcFInal/course.cpp
+	"course.h"
+
+1741110070 /home/deni/C++ projects/CGPACalcFInal/course.h
+	<string>
+
+1741110027 source:/home/deni/C++ projects/CGPACalcFInal/main.cpp
+	<iostream>
+	"student.h"
+	"course.h"
+
+1741110067 /home/deni/C++ projects/CGPACalcFInal/student.h
+	<string>
+	<vector>
+	"course.h"
+
+1741110004 source:/home/deni/C++ projects/CGPACalcFInal/student.cpp
+	"student.h"
+	<iostream>
+
