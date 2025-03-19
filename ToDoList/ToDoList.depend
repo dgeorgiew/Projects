@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1741181280 source:/home/deni/C++ projects/ToDoList/list.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"list.h"
+
+1741181261 /home/deni/C++ projects/ToDoList/list.h
+	<vector>
+	<string>
+
+1741181188 source:/home/deni/C++ projects/ToDoList/main.cpp
+	"list.h"
+
